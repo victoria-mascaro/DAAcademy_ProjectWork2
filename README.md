@@ -12,7 +12,9 @@ The objective is to evaluate the concepts related to Azure, Data Factory, Databr
 
 keggel's DB related to COVID-19, 06 june 2020, Italy.
 
-[Notebook]()
+## Data Analytics & Report 
+
+[Notebook](https://github.com/victoria-mascaro/DAAcademy_ProjectWork2/blob/main/Final_Mascaro.html)
 
 [PPT](https://docs.google.com/presentation/d/1DBEEsUhVg26hreCYI40QRlUBzVslQayQ/edit?usp=share_link&ouid=110859574582519822393&rtpof=true&sd=true)
 
